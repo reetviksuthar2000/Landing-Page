@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 70vh;
+    width: 100vw;
+    background: #FFCD9E;
+    display: flex;
+    
+}
+.content{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+h1{
+    margin-top: 80px;
+    font-family: arial;
+
+}
+p{
+    margin-top: 20px;
+    font-family: arial;
+    
+}
+h4{
+    margin-top: 20px;
+    font-family: arial;
+}
+#e-mail{
+    margin-top: 30px;
+    
+    height:35px ;
+    width: 260px;
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    border-radius: 8px;
+    
+}
+#button{
+    margin-top: 30px;
+    margin-left: 5px;
+    height:35px ;
+    width: 180px;
+    border-radius: 5px;
+    background-color:  black;
+    color: white;  
+    border: solid black;
+    
+    
+}
+h6{
+    margin-top: 20px;
+    font-family: arial ;
+    color: white;
+    margin-left:30px ;
+}
+.image{
+    margin-right: 60px;
+    margin-left: 200px;
+}
+.avatar{
+    height: 420px;
+    width: 450px;
+}
+footer{
+    height: 30vh;
+    width: 100vw;
+    background: #282828;
+    display: flex;
+}
+.list1{
+    margin-left: 110px;
+    margin-right: 80px;
+    margin-top: 40px;
+    
+
+}
+.list2{
+    margin-left: 620px;
+    margin-right: 60px;
+    margin-top: 50px;
+    flex-flow: flex-end;
+    text-align: right;
+    
+}
+ul{
+    list-style-type: none;
+    color: white;
+    font-family: arial;
+    
+}
